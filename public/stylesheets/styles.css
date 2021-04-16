@@ -8,11 +8,11 @@
 }
 
 body {
-  background: #6b9dd4;
+  background: #fafafa;
 }
 
 body .header {
-  background: #6b9dd4;
+  background: #fafafa;
   -webkit-box-shadow: 0 0 6px #47556990;
           box-shadow: 0 0 6px #47556990;
   height: 64px;
